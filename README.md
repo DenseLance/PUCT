@@ -14,7 +14,7 @@ There are plans to port this project over to `mcts-simple` later this year. Curr
 
 ## Usage
 
-The code found in this library is simplified and made easy to understand for research purposes.
+The code found in this library is simplified and made easy to understand for research purposes. You can use `random.seed(seed)` and `torch.manual_seed(seed)` for reproducibility.
 
 #### Typehints
 
